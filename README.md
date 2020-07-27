@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm [Ethan!](https://github.com/ethan-li-coding) 
-
+I'm coding some stereo matching algorithms. If you are interested in this work, please follow me, I hope my work is helpful to you!
 <!--
 **ethan-li-coding/ethan-li-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
