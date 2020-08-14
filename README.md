@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [Ethan!](https://github.com/ethan-li-coding) 
 I'm coding some stereo matching algorithms. If you are interested in this work, please follow me, I hope my work is helpful to you!
+
+我正在编写一些立体匹配算法，并免费开源。如果你对此工作感兴趣，欢迎关注我，希望它们能够给你的科研或工作提供一些帮助！
 <!--
 **ethan-li-coding/ethan-li-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
