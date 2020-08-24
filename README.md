@@ -4,13 +4,13 @@ I'm coding some stereo matching algorithms. If you are interested in this work, 
 
 [![Blog Badge](https://img.shields.io/badge/blog-150k%20pageview-brightgreen)](https://ethanli.blog.csdn.net/) [![Blog Badge](https://img.shields.io/badge/zhihu-9k%20pageview-brightgreen)](https://www.zhihu.com/people/yingsongli) [![Mail Badge](https://img.shields.io/badge/-ethan.li.whu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:ethan.li.whu@gmail.com)
 
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="center" width="55%">
   
 <!--
 - ![Ethan Li's Github Stats](https://github-readme-stats.vercel.app/api?username=ethan-li-coding&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ethan-li-coding&show_icons=true&hide_border=true)
-</td><td valign="top" width="51%">
+</td><td valign="top" width="45%">
 
 ### 博客
 <!-- tils starts -->
