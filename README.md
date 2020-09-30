@@ -13,8 +13,8 @@ I'm coding some stereo matching algorithms. If you are interested in this work, 
 
 ### 博客
 <!-- tils starts -->
-[经典AD-Census: （4）多步骤视差优化](https://ethanli.blog.csdn.net/article/details/107922958) - 2020-08-10
-<br>[经典AD-Census: （3）扫描线优化](https://ethanli.blog.csdn.net/article/details/107825411) - 2020-08-05
+[经典AD-Census: （4）代价聚合](https://ethanli.blog.csdn.net/article/details/108876143) - 2020-08-10
+<br>[经典AD-Census: （3）代价计算](https://ethanli.blog.csdn.net/article/details/108610041) - 2020-08-05
 <br>[经典PatchMatch: （6）后处理](https://ethanli.blog.csdn.net/article/details/107549278) - 2020-07-23
 <br>[经典PatchMatch: （5）迭代传播](https://ethanli.blog.csdn.net/article/details/107436340) - 2020-07-19 
 <br>[经典SGM:（3）代价聚合](https://ethanli.blog.csdn.net/article/details/105316274) - 2020-04-04
