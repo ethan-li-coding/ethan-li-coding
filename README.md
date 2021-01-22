@@ -8,7 +8,7 @@ I'm coding some stereo matching algorithms. If you are interested in this work, 
 <!--
 - ![Ethan Li's Github Stats](https://github-readme-stats.vercel.app/api?username=ethan-li-coding&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=ethan-li-coding&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ethan-li-coding&show_icons=true&hide_border=true&theme=dark)
 </td><td valign="top" width="45%">
 
 ### 博客
